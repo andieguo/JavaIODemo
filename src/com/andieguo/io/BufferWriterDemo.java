@@ -1,4 +1,4 @@
-package com.andieguo.file.encoder;
+package com.andieguo.io;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
